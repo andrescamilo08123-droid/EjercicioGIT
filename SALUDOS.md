@@ -9,14 +9,10 @@
 8. 
 9. 
 10. 
-11. 
-12. Soy Maria Visus :) hola, mundo!! 
-13. 
-14.Ruben Esteban 
 11. Soy Diego Plaza
-12. 
-13. Soy Alex
-14. 
+12. Soy Maria Visus :) hola, mundo!! 
+13.  Soy Alex
+14.Ruben Esteban 
 15. 
 16. Soy Eirene Boatemaa Reynolds
 17. 
